@@ -1,4 +1,4 @@
-# License Plate Detection Model using YoloV8
+# Plate Detection Data Training Model using YoloV8
 
 ## Overview
 
