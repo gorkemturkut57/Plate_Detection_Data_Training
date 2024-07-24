@@ -1,5 +1,8 @@
 # Plate Detection Data Training Model using YoloV8
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-green.svg)](https://www.python.org/downloads/release/python-370/)
+
 ## Overview
 
 This project is focused on developing a machine learning model using the YoloV8 library to detect and locate car license plates from images and videos. License plate detection is crucial in many fields, including security, traffic monitoring, and automated toll systems. By leveraging deep learning, machine learning, and image processing techniques, this model can efficiently and accurately identify license plates, making it a powerful tool for real-time applications.
